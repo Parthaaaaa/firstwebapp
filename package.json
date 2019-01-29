@@ -2,7 +2,7 @@
   "name": "facerecognition",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:Parthaaaaa.github.io/facerecognition",
+  "homepage": "https:Parthaaaaa.github.io/firstwebapp",
   "dependencies": {
     "clarifai": "^2.9.0",
     "express": "^4.16.4",
