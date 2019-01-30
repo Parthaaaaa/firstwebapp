@@ -2,10 +2,11 @@
   "name": "facerecognition",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:Parthaaaaa.github.io/firstwebapp",
+  "homepage": "https://parthaaaaa.github.io/firstwebapp/",
   "dependencies": {
     "clarifai": "^2.9.0",
     "express": "^4.16.4",
+    "gh-pages": "^2.0.1",
     "multer": "^1.4.1",
     "pug": "^2.0.3",
     "react": "^16.7.0",
@@ -16,11 +17,11 @@
     "tilt.js": "^1.2.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+  	 "start": "react-scripts start",
+  	 "build": "react-scripts build",
+  	 "test": "react-scripts test",
+  	"predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -31,8 +32,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "gh-pages": "^2.0.1"
-  }
+  ]
 }
