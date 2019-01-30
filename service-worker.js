@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "parthaaaaa.github.io/firstwebapp/precache-manifest.95e6d444f5a39030d7c04feee237b6e7.js"
+  "/firstwebapp/precache-manifest.492b23b3bd9370c2d2505afdb020a245.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("parthaaaaa.github.io/firstwebapp/index.html", {
+workbox.routing.registerNavigationRoute("/firstwebapp/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

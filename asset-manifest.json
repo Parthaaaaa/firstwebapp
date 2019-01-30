@@ -1,15 +1,15 @@
 {
-  "main.css": "parthaaaaa.github.io/firstwebapp/static/css/main.01c5ff51.chunk.css",
-  "main.js": "parthaaaaa.github.io/firstwebapp/static/js/main.96f8284f.chunk.js",
-  "main.js.map": "parthaaaaa.github.io/firstwebapp/static/js/main.96f8284f.chunk.js.map",
-  "static/css/1.58c735f3.chunk.css": "parthaaaaa.github.io/firstwebapp/static/css/1.58c735f3.chunk.css",
-  "static/js/1.d8912ee2.chunk.js": "parthaaaaa.github.io/firstwebapp/static/js/1.d8912ee2.chunk.js",
-  "static/js/1.d8912ee2.chunk.js.map": "parthaaaaa.github.io/firstwebapp/static/js/1.d8912ee2.chunk.js.map",
-  "runtime~main.js": "parthaaaaa.github.io/firstwebapp/static/js/runtime~main.c6155c3b.js",
-  "runtime~main.js.map": "parthaaaaa.github.io/firstwebapp/static/js/runtime~main.c6155c3b.js.map",
-  "static/css/1.58c735f3.chunk.css.map": "parthaaaaa.github.io/firstwebapp/static/css/1.58c735f3.chunk.css.map",
-  "static/css/main.01c5ff51.chunk.css.map": "parthaaaaa.github.io/firstwebapp/static/css/main.01c5ff51.chunk.css.map",
-  "index.html": "parthaaaaa.github.io/firstwebapp/index.html",
-  "precache-manifest.95e6d444f5a39030d7c04feee237b6e7.js": "parthaaaaa.github.io/firstwebapp/precache-manifest.95e6d444f5a39030d7c04feee237b6e7.js",
-  "service-worker.js": "parthaaaaa.github.io/firstwebapp/service-worker.js"
+  "main.css": "/firstwebapp/static/css/main.01c5ff51.chunk.css",
+  "main.js": "/firstwebapp/static/js/main.cd808c5b.chunk.js",
+  "main.js.map": "/firstwebapp/static/js/main.cd808c5b.chunk.js.map",
+  "static/css/1.58c735f3.chunk.css": "/firstwebapp/static/css/1.58c735f3.chunk.css",
+  "static/js/1.21bac899.chunk.js": "/firstwebapp/static/js/1.21bac899.chunk.js",
+  "static/js/1.21bac899.chunk.js.map": "/firstwebapp/static/js/1.21bac899.chunk.js.map",
+  "runtime~main.js": "/firstwebapp/static/js/runtime~main.43f1028a.js",
+  "runtime~main.js.map": "/firstwebapp/static/js/runtime~main.43f1028a.js.map",
+  "static/css/1.58c735f3.chunk.css.map": "/firstwebapp/static/css/1.58c735f3.chunk.css.map",
+  "static/css/main.01c5ff51.chunk.css.map": "/firstwebapp/static/css/main.01c5ff51.chunk.css.map",
+  "index.html": "/firstwebapp/index.html",
+  "precache-manifest.492b23b3bd9370c2d2505afdb020a245.js": "/firstwebapp/precache-manifest.492b23b3bd9370c2d2505afdb020a245.js",
+  "service-worker.js": "/firstwebapp/service-worker.js"
 }
